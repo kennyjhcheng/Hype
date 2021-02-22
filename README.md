@@ -11,7 +11,7 @@
 
 
 
-### <div align="center">🚧 We are updating our product 🚧</div>
+### <div align="center">⭐We have taken our code down to prepare for deployment to Google Play⭐</div>
 
 # Table of Content:
 - [First look](#first-look)
